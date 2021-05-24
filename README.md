@@ -1,8 +1,8 @@
 # Remed-E: Reminding Medicines Everyday
 
-This project aims at providing an **ecosystem of intelligent and user-friendly services based on modern samrt home devices and other technologies** that can help patients adhere better to their medicines and become more self-aware **about their side effects and usage**.
+This project aims at providing an **ecosystem of intelligent and user-friendly services based on modern smart home devices and other technologies** that can help patients adhere better to their medicines and become more self-aware **about their side effects and usage**.
 
-The project also includes a **subscriber-based** mechanism which will provide relatives and doctors **quick and easy access to patient's medical history** in cas of emergency.
+The project also includes a **subscriber-based** mechanism which will provide relatives and doctors **quick and easy access to patient's medical history** in case of emergency.
 
 ## Technologies Used:
 <ol>
